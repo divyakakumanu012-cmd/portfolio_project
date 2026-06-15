@@ -32,8 +32,8 @@ function Contact() {
       alert("Message Sent Successfully");
 
       setFormData({
-        name: "",
-        email: "",
+        name: "Divya",
+        email: "divyakakumanu@gmail.com",
         message: "",
       });
 
@@ -58,7 +58,7 @@ function Contact() {
 
           <h3>GitHub</h3>
           <a
-            href="https://github.com/"
+            href="https://github.com/divyakakumanu012-cmd"
             target="_blank"
             rel="noreferrer"
           >
